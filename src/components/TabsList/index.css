@@ -1,0 +1,12 @@
+.item-container {
+  list-style-type: none;
+  padding: 6px;
+}
+.btn {
+  color: #ffffff;
+  background-color: transparent;
+  border-width: 0px;
+  font-family: 'Roboto';
+  font-weight: 600;
+  font-size: 22px;
+}
